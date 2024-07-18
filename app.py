@@ -11,7 +11,7 @@ import warnings
 from sklearn.preprocessing import LabelEncoder
 warnings.filterwarnings('ignore')
 
-data_org = pd.read_excel(r"C:\Users\ladig\OneDrive\Documents\Data Science Project files\World_development_mesurement.xlsx")
+data_org = pd.read_excel(r"World_development_mesurement.xlsx")
 data_org.head()
 
 ## Creating copy of original dataset
