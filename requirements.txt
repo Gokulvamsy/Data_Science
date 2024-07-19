@@ -1,2 +1,5 @@
-seaborn==0.12.2
-scikit-learn==1.5.0
+streamlit
+scikit-learn
+matplotlib
+pandas
+openpyxl
